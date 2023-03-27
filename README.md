@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  </div>
  
+ <h2>Leetcode stats:</h2>
 <rect xmlns="http://www.w3.org/2000/svg" class="background" stroke-width="1" width="499" height="199" x="0.5" y="0.5" rx="4"/>
----
-### :fire: My Stats :
+
 [![Leetcode Stats](https://leetcode.card.workers.dev/PrernaButola?theme=dark&font=baloo&extension=null)](https://leetcode.com/PrernaButola)
